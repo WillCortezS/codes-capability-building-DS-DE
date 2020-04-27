@@ -17,7 +17,7 @@ El programa del curso referenciando las sesiones con el material es:
 |  2.3 | Teórica |Fundamentos para el análisis de datos |Fundamentos de Python | - | 
 |  2.4 | Práctica |Fundamentos para el análisis de datos |Introducción a Python | Estimación de regresión lineal  |  
 |  2.5 | Práctica | Fundamentos para el análisis de datos |Introducción a Pandas | Limpieza y trabajo con datos en `Pandas` |
-|  3.1 | Teórica | Probabilidad y estadística | -  | 
+|  3.1 | Teórica | Probabilidad y estadística | Teoría de probabilidad y estadística | - |
 |  3.2-3.3 | Práctica |Probabilidad y estadística  |Exploración de datos con matplotlib, seaborn y plotly | Visualizaciones para `seaborn` 
 |
 
