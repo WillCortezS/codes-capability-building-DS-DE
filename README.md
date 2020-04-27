@@ -8,7 +8,7 @@ El material para las sesiones prácticas está distribuido a lo largo de este re
 
 El programa del curso referenciando las sesiones con el material es:
 
-| # | Módulo | Tipo sesión | Sesión | Mini-Proyecto|  
+| # | Tipo sesión| Módulo | Sesión | Mini-Proyecto|  
 |---|---|---|---|---|
 |  0 | - | Teórica |Presentación del curso | -  | 
 |  1 | Intro| Teórica |Introducción a la inteligencia artificial y A.A. |  -  |
