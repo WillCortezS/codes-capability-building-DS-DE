@@ -1,0 +1,3 @@
+name: ensayo
+dependencies:
+  - python=3.7
