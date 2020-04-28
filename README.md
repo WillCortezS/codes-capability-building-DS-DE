@@ -7,7 +7,7 @@ El material para las sesiones teóricas se encuentra en:
 El material para las sesiones prácticas está distribuido a lo largo de este repositorio
 
 
-### ¿Cuál es la estrcutura del curso?
+### ¿Cuál es la estructura del curso?
 El programa del curso referenciando cada sesión con su material de apoyo:
 
 | # | Tipo sesión| Módulo | Sesión | Mini-Proyecto|  
