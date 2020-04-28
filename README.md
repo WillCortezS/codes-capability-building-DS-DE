@@ -17,10 +17,11 @@ El programa del curso referenciando cada sesión con su material de apoyo:
 |  2.1 | Teórica |Fundamentos para el análisis de datos |Uso de la terminal y comandos bash | - | 
 |  2.2 | Teórica |Fundamentos para el análisis de datos |Configuración del ambiente de desarrollo | -  |
 |  2.3 | Teórica |Fundamentos para el análisis de datos |Fundamentos de Python | - | 
-|  2.4 | Práctica |Fundamentos para el análisis de datos |Introducción a Python | [Estimación de regresión lineal](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/3-ejercicios/2.4-Introducción_a_python-ejercicio.ipynb)  |  
-|  2.5 | Práctica | Fundamentos para el análisis de datos |Introducción a Pandas | [Limpieza y trabajo con datos en `Pandas`](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/3-ejercicios/2.5-Introduccion_a_pandas-ejercicio.ipynb) |
+|  2.4 | Práctica |Fundamentos para el análisis de datos | [Introducción a Python](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/2-notebooks/2.4-Introduccion_a_python.ipynb) | [Estimación de regresión lineal](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/3-ejercicios/2.4-Introducción_a_python-ejercicio.ipynb)  |  
+|  2.5 | Práctica | Fundamentos para el análisis de datos | [Introducción a Pandas](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/2-notebooks/2.5-Introduccion_a_pandas.ipynb) | [Limpieza y trabajo con datos en `Pandas`](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/3-ejercicios/2.5-Introduccion_a_pandas-ejercicio.ipynb) |
 |  3.1 | Teórica | Probabilidad y estadística | Teoría de probabilidad y estadística | - |
-|  3.2-3.3 | Práctica |Probabilidad y estadística  |Exploración de datos con matplotlib, seaborn y plotly | [Visualizaciones para exploración de datos](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/3-ejercicios/3.3-Analisis_descriptivos_ejercicio.ipynb) |
+|  3.2 | Práctica | Probabilidad y estadística | [Exploración de datos con matplotlib, seaborn y plotly](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/2-notebooks/3.2-3.3-Exploracion_de_datos_con_matplotlib_seaborn_plotly.ipynb) | [Visualizaciones para exploración de datos](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/3-ejercicios/3.3-Analisis_descriptivos_ejercicio.ipynb) |
+|  3.3 | Práctica | Probabilidad y estadística | [Exploración de datos con matplotlib, seaborn y plotly](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/2-notebooks/3.2-3.3-Exploracion_de_datos_con_matplotlib_seaborn_plotly.ipynb) | [Visualizaciones para exploración de datos](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/3-ejercicios/3.3-Analisis_descriptivos_ejercicio.ipynb) |
 
 ### Instructores:
 
