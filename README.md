@@ -16,8 +16,8 @@ El programa del curso referenciando cada sesión con su material de apoyo:
 
 | # | Tipo sesión| Módulo | Sesión | Mini-Proyecto|  
 |---|---|---|---|---|
-|  0 | - | Teórica |Presentación del curso | -  | 
-|  1 | Intro| Teórica |Introducción a la inteligencia artificial y A.A. |  -  |
+|  0 | Teórica | - |Presentación del curso | -  | 
+|  1 | Teórica | Intro |Introducción a la inteligencia artificial y A.A. |  -  |
 |  2.1 | Teórica |Fundamentos para el análisis de datos |Uso de la terminal y comandos bash | - | 
 |  2.2 | Teórica |Fundamentos para el análisis de datos |Configuración del ambiente de desarrollo | -  |
 |  2.3 | Teórica |Fundamentos para el análisis de datos |Fundamentos de Python | - | 
