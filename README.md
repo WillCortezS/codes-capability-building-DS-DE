@@ -7,8 +7,8 @@
 Este es el repositorio para curso de capacitación en analítica avanzada para ingenieros y científicos de datos. El curso está compuesto de **10 módulos** incluyendo una sesión introductoria y una sesión final de *datathon*. Cada módulo tiene sesiones teóricas y prácticas.    
 
 ### ¿Dónde encontrar el contenido?
-El material para las sesiones teóricas se encuentra en:
-El material para las sesiones prácticas está distribuido a lo largo de este repositorio
+  - El material para las sesiones teóricas se encuentra en:
+  - El material para las sesiones prácticas está distribuido a lo largo de este repositorio
 
 
 ### ¿Cuál es la estructura del curso?
