@@ -19,8 +19,7 @@ El programa del curso referenciando cada sesión con su material de apoyo:
 |  0 | Teórica | - | Presentación del curso | -  | 
 |  1 | Teórica | Introducción | Introducción a la inteligencia artificial y el aprendizaje automático |  -  |
 |  2.1 | Teórica |Fundamentos para el análisis de datos | Sistema *Unix*, terminal y `bash` | - | 
-|  2.2 | Teórica |Fundamentos para el análisis de datos | Configuración del ambiente de desarrollo: brew, apt, conda & pip
- | -  |
+|  2.2 | Teórica |Fundamentos para el análisis de datos | Configuración del ambiente de desarrollo: brew, apt, conda & pip| -  |
 |  2.3 | Teórica |Fundamentos para el análisis de datos |Fundamentos de `Python` | - | 
 |  2.4 | Práctica |Fundamentos para el análisis de datos | [Fundametos de `Python`](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/2-notebooks/2.4-Fundamentos_de_python.ipynb) | [Estimación de regresión lineal](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/3-ejercicios/2.4-Fundamentos_de_python-ejercicio.ipynb)  |  
 |  2.5 | Práctica | Fundamentos para el análisis de datos | [Fundamentos de `Pandas` para el análisis de datos](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/2-notebooks/2.5-Fundamentos_de_pandas_para_el_analisis_de_datos.ipynb) | [Limpieza y trabajo con datos en `Pandas`](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/3-ejercicios/2.5-Fundamentos_de_pandas-ejercicio.ipynb) |
