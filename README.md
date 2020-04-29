@@ -1,4 +1,4 @@
-# Curso de capacitación de Analítica Avanzada y Ciencia de Datos
+# Curso de capacitación de Analítica Avanzada
 
 <p float="right">
   <img src="99-imagenes/mck-logo.png" alt="drawing" width="300" align="right"/>
