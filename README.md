@@ -10,7 +10,6 @@ Este es el repositorio para curso de capacitación en analítica avanzada para i
   - El material para las sesiones teóricas se encuentra en:
   - El material para las sesiones prácticas está distribuido a lo largo de este repositorio
 
-
 ### ¿Cuál es la estructura del curso?
 El programa del curso referenciando cada sesión con su material de apoyo:
 
@@ -25,6 +24,14 @@ El programa del curso referenciando cada sesión con su material de apoyo:
 |  2.5 | Práctica | Fundamentos para el análisis de datos | [Fundamentos de `Pandas` para el análisis de datos](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/2-notebooks/2.5-Fundamentos_de_pandas_para_el_analisis_de_datos.ipynb) | [Limpieza y trabajo con datos en `Pandas`](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/3-ejercicios/2.5-Fundamentos_de_pandas-ejercicio.ipynb) |
 |  3.1 | Teórica | Teoría de probabilidad y estadística | Probabilidad y estadística | - |
 |  3.2 | Práctica | Teoría de probabilidad y estadística | [Análisis descriptivos con `matplotlib`, `seaborn` y `plotly`](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/2-notebooks/3.2-Analisis_descriptivos_con_matplotlib_seaborn_plotly.ipynb) | [Visualizaciones para la exploración de datos](https://github.com/Torroledo/codes-capability-building-DS-DE/blob/master/3-ejercicios/3.2-Analisis_descriptivos-ejercicio.ipynb) |
+
+### ¿Cómo crear ambiente de desarrollo?
+
+Es posible crear de forma rápida el ambiente usando `conda` y el *yml* de configuracion con el siguiente comando:
+
+```
+conda env create -f ambiente.yml
+```
 
 ### Instructores:
 
