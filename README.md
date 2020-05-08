@@ -1,8 +1,8 @@
 # Curso de capacitación de Analítica Avanzada
 
 <p float="right">
-  <img src="99-imagenes/alicorp-logo.png" alt="drawing" width="200" align="right"/>
-  <img src="99-imagenes/mck-logo.png" alt="drawing" width="200" align="right"/>
+  <img src="99-imagenes/mck-logo.png" alt="drawing" width="300" align="right"/>
+  <img src="99-imagenes/alicorp-logo.png" alt="drawing" width="300" align="right"/>
 </p>
 
 Este es el repositorio para curso de capacitación en analítica avanzada para ingenieros y científicos de datos. El curso está compuesto de **10 módulos** incluyendo una sesión introductoria y una sesión final de *datathon*. Cada módulo tiene sesiones teóricas y prácticas.    
